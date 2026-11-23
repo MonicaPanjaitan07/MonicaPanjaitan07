@@ -1,14 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a6c1ee,100:fbc2eb&height=170&section=header&text=Hai,%20aku%20Monica!&fontSize=46&fontColor=2b3a55&fontAlignY=36&desc=anak%20TI%20IT%20Del%20yang%20suka%20ngoding%20dan%20desain&descSize=16&descAlignY=56&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,50:4f7cac,100:f9a8d4&height=170&section=header&text=Hi,%20I'm%20Monica%20Panjaitan&fontSize=44&fontColor=ffffff&fontAlignY=42&animation=twinkling" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=4F7CAC&center=true&vCenter=true&width=640&height=45&lines=Web+Developer+%C2%B7+Laravel+%2F+Next.js;UI%2FUX+Designer+%C2%B7+Figma+dulu+baru+ngoding;Software+QA+%C2%B7+Katalon+%2F+Postman;lagi+cari+tempat+magang+nih" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&color=4F7CAC&center=true&vCenter=true&width=600&height=45&lines=I'm+a+Web+Developer;I'm+a+UI%2FUX+Designer;I'm+a+Software+QA+Enthusiast" alt="Typing SVG" />
 
 <p align="center">
-Halo! Aku <b>Monica Putri Lestari Panjaitan</b>, panggil aja <b>Lestari</b>.
-Mahasiswa Teknologi Informasi di <b>Institut Teknologi Del</b> yang hobinya bikin web dari nol:
-corat-coret dulu di Figma, ngoding pakai Laravel atau Next.js, terus nge-test pakai Katalon biar nggak malu pas demo.
-Sekarang lagi cari kesempatan <b>magang</b> 🙌
+I'm an Information Technology student at Del Institute of Technology, interested in web development, UI/UX design, and software testing.
+Most of my projects are web apps that I design in Figma, build with Laravel or Next.js, and test with Katalon.
+Right now I'm looking for an internship where I can keep learning and work on real products.
 </p>
 
 <a href="https://lestari-two.vercel.app"><img src="https://img.shields.io/badge/Portfolio-lestari--two.vercel.app-4f7cac?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
@@ -53,7 +52,7 @@ Sekarang lagi cari kesempatan <b>magang</b> 🙌
 
 ## Tech Stack
 
-**Yang sering aku pakai**
+**Core Tech Stack**
 
 ![Web](https://skillicons.dev/icons?i=laravel,php,html,css,js,ts,react,nextjs,tailwind,mysql,postgres)
 
@@ -68,21 +67,21 @@ Sekarang lagi cari kesempatan <b>magang</b> 🙌
 
 ---
 
-## Proyek yang lagi aku banggain
+## Featured Projects
 
-| Proyek | Ceritanya | Lihat |
+| Project | What it is | Links |
 |---|---|---|
-| **AntreKita** | Booking ruang diskusi perpus IT Del dari HP, ada asisten AI-nya juga. Bikin sendiri dari desain sampai online. | [Live](https://antrekita.vercel.app) · [Repo](https://github.com/MonicaPanjaitan07/antrekita) |
-| **InvoiceGuard** | Robot UiPath yang ngecek invoice vendor. Yang aneh-aneh tetap diputusin manusia, robotnya cuma bantu. | [Repo](https://github.com/MonicaPanjaitan07/InvoiceGuard) |
-| **Pardede Catering** | Proyek akhir: pesan katering online. Aku bagian desain UI/UX, ikut ngoding, dan nge-test pakai Katalon. | [Demo](https://lestari-two.vercel.app/demo/pardede-catering/login.html) · [Repo](https://github.com/MonicaPanjaitan07/Pardede-Catering-App) |
-| **Web Firman Taylor** | Proyek akhir: pesan jahitan online, biar nggak perlu antre di tukang jahit. | [Demo](https://lestari-two.vercel.app/demo/firman-taylor/index.html) · [Repo](https://github.com/MonicaPanjaitan07/web-firman-taylor) |
+| **AntreKita** | Book a library discussion room at IT Del from your phone, with an AI booking assistant. Built solo, from design to deployment. | [Live](https://antrekita.vercel.app) · [Repo](https://github.com/MonicaPanjaitan07/antrekita) |
+| **InvoiceGuard** | A UiPath robot that checks vendor invoices against purchase orders, while a person still makes the final call on problem invoices. | [Repo](https://github.com/MonicaPanjaitan07/InvoiceGuard) |
+| **Pardede Catering** | Final project: online catering orders. I designed the UI/UX, helped build it, and tested it with Katalon. | [Demo](https://lestari-two.vercel.app/demo/pardede-catering/login.html) · [Repo](https://github.com/MonicaPanjaitan07/Pardede-Catering-App) |
+| **Web Firman Taylor** | Final project: order tailoring online instead of queueing at the shop. | [Demo](https://lestari-two.vercel.app/demo/firman-taylor/index.html) · [Repo](https://github.com/MonicaPanjaitan07/web-firman-taylor) |
 
 ---
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=MonicaPanjaitan07&label=yang%20mampir&color=a6c1ee&style=flat-square" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=MonicaPanjaitan07&label=profile%20views&color=a6c1ee&style=flat-square" alt="Profile views"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:fbc2eb,100:a6c1ee&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f9a8d4,50:4f7cac,100:1e3a5f&height=100&section=footer" width="100%"/>
 
 </div>
